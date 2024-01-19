@@ -22,11 +22,6 @@
   float: left;
 }
 
-.rmdb-tmdb-logo {
-  width: 122px;
-  margin-top: 25px;
-  float: right;
-}
 
 @media screen and (max-width: 500px) {
   .rmdb-header-content {
@@ -34,11 +29,7 @@
     min-height: 0px;
   }
 
-  .rmdb-tmdb-logo {
-    display: inline-block;
-    width:80px;
-    margin-top: 0px;
-  }
+
 
   .rmdb-logo {
     width: 150px;
